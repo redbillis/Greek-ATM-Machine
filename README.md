@@ -10,4 +10,4 @@ Account ", 'Initial Amount" etc etc ...</p>
 Θυμηθείτε να δώσετε στα αντικείμενα της κλάσης σας ιδιότητες όπως "Όνομα Κατόχου", "Αριθμός
 Λογαριασμού", 'Αρχικό Ποσό" κτλ κτλ...</p>
 
-Replit link:
+Replit link: https://replit.com/@redbillis/Greek-ATM-Machine#atm-machine.py
